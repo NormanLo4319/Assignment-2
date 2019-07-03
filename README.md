@@ -3,7 +3,7 @@ Analyzing Multiple Years of Stock Data
 
 ## Files
 
-* [Stock Data](Multiple_Year_Stock_Data.xlsx) - multiple year stock data
+* [Stock Data](Multiple_year_stock_data.xlsx) - multiple year stock data
 
 ## Overview
 Using VBA scripting to analyze real stock market data.
