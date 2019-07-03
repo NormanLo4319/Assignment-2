@@ -3,7 +3,9 @@ Analyzing Multiple Years of Stock Data
 
 ## Files
 
-* [Stock Data](Multiple_year_stock_data.xlsx) - multiple year stock data
+* [Test Data](Resources/alphabtical_testing.xlsx) - This file is used for testing
+
+Original data is too big to upload on Github, but can be requested.
 
 ## Overview
 Using VBA scripting to analyze real stock market data.
@@ -26,4 +28,10 @@ Using VBA scripting to analyze real stock market data.
 
 * Able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
+## Solutions:
 
+![solution](Multiple_Year_Stock_Data_2014.jpg)
+
+![solution](Multiple_Year_Stock_Data_2015.jpg)
+
+![solution](Multiple_Year_Stock_Data_2016.jpg)
